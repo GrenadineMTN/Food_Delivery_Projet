@@ -1,4 +1,4 @@
-# Food_Delivery_Projet 📦
+# Food_Delivery_Project 📦
 
 A machine learning project about predicting food time delivery with the RandomForest Regressor.
 
