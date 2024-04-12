@@ -9,6 +9,4 @@ A machine learning project about predicting food time delivery with the RandomFo
 
 ## Streamlit GitHub Repository
 
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://github.com/Lamiaeidr/Streamlitappdelivery)
-
 [![Open in GitHub Codespaces](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Lamiaeidr/Streamlitappdelivery)
