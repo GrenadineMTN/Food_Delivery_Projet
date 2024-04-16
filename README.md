@@ -10,3 +10,7 @@ A machine learning project about predicting food time delivery with the RandomFo
 ## Streamlit GitHub Repository
 
 [![Open in GitHub Codespaces](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Lamiaeidr/Streamlitappdelivery)
+
+## Tableau Dashboard
+
+https://public.tableau.com/app/profile/jeffrey.ensenat/viz/Food_Delivery_17128477264840/Tableaudebord3
