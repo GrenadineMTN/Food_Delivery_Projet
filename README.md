@@ -14,3 +14,7 @@ A machine learning project about predicting food time delivery with the RandomFo
 ## Tableau Dashboard
 
 https://public.tableau.com/app/profile/jeffrey.ensenat/viz/Food_Delivery_17128477264840/Tableaudebord3
+
+#JEDHA DEMODAY Presentation 
+https://www.linkedin.com/events/demoday-51-d-couvrezdequoinos-l7168971041854197761/theater/
+[5:58 - 18:34]
