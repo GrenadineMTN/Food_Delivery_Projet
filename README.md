@@ -13,7 +13,7 @@ A machine learning project about predicting food time delivery with the RandomFo
 
 ## Canva Project Presentation
 
-https://www.canva.com/design/DAGCAkGOPpo/bjK-557weung9l-3VDZEDg/view?utm_content=DAGCAkGOPpo&utm_campaign=designshare&utm_medium=link&utm_source=editor
+[![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)](https://www.canva.com/design/DAGCAkGOPpo/bjK-557weung9l-3VDZEDg/view?utm_content=DAGCAkGOPpo&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 
 
 ## Tableau Dashboard
